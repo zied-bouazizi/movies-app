@@ -3,7 +3,7 @@
 namespace App\Http\Livewire;
 
 use Livewire\Component;
-use Illuminate\support\Facades\Http;
+use Illuminate\Support\Facades\Http;
 
 class SearchDropdown extends Component
 {
