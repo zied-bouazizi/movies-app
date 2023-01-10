@@ -11,6 +11,3 @@ Movies application with Laravel and Tailwind CSS
 5. `php artisan key:generate`
 6. `php artisan serve` or use Laravel Valet or Laravel Homestead
 7. Visit `localhost:8000` in your browser
-
-### Demo
-https://moviesappdemo.herokuapp.com
